@@ -1,0 +1,26 @@
+{
+  "name": "sks-utils",
+  "version": "1.0.1",
+  "description": "utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "flow": "flow"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sks-keo/sks-utils.git"
+  },
+  "keywords": [
+    "utils"
+  ],
+  "author": "keaksey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sks-keo/sks-utils/issues"
+  },
+  "homepage": "https://github.com/sks-keo/sks-utils#readme",
+  "dependencies": {
+    "flow-bin": "^0.78.0"
+  }
+}
